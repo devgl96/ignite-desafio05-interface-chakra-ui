@@ -1,9 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@500;600&family=Poppins:wght@400;500;600&display=swap");
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 a {
@@ -13,4 +13,39 @@ a {
 
 * {
   box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.amount {
+  font-family: "Barlow", sans-serif;
+}
+
+.descriptionAmount {
+  font-family: "Barlow", sans-serif;
+}
+
+.mySwiper {
+  height: 450px;
+}
+
+.swiper .swiper-button-prev {
+  color: #ffba08;
+}
+
+.swiper .swiper-button-next {
+  color: #ffba08;
+}
+
+.swiper .swiper-pagination-horizontal > .swiper-pagination-bullet {
+  background-color: #999999;
+  width: 16px;
+  height: 16px;
+}
+
+.swiper .swiper-pagination-horizontal > .swiper-pagination-bullet-active {
+  background-color: #ffba08;
+}
+
+#continent_image {
+  cursor: pointer;
 }
