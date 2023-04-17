@@ -67,7 +67,13 @@ export default function Carrousel() {
   ];
 
   return (
-    <Box position="relative" w="100%" h="70vh" px="100" mt="20">
+    <Box
+      position="relative"
+      w={{ lg: "100%", base: "100vw" }}
+      h={{ lg: "70vh", base: "100vh" }}
+      px={{ lg: "100", base: 0 }}
+      mt="20"
+    >
       <Swiper
         cssMode={true}
         navigation={true}
@@ -75,10 +81,15 @@ export default function Carrousel() {
         keyboard={true}
         modules={[Navigation, Pagination, Keyboard]}
         className="mySwiper"
+        height={5}
       >
         {slides.map((image) => (
           <SwiperSlide key={image.id}>
-            <Link href={`${image.link}`} id="continent_image" legacyBehavior>
+            <Link
+              href={`/continent/${image.link}`}
+              id="continent_image"
+              legacyBehavior
+            >
               <a>
                 <Box
                   display={"flex"}
@@ -93,15 +104,23 @@ export default function Carrousel() {
                   bottom={0}
                   color={"#FFF"}
                 >
-                  <Text fontSize={"6xl"} fontWeight={"bold"}>
+                  <Text
+                    fontSize={{ lg: "6xl", base: "2xl" }}
+                    fontWeight={"bold"}
+                  >
                     {image.title}
                   </Text>
-                  <Text fontSize={"xl"} fontWeight={"bold"}>
+                  <Text fontSize={{ lg: "xl", base: "sm" }} fontWeight={"bold"}>
                     {image.subTitle}
                   </Text>
                 </Box>
                 <Box>
-                  <Image src={image.src} alt={image.alt} w="100%" h="100%" />
+                  <Image
+                    src={image.src}
+                    alt={image.alt}
+                    w={{ lg: "100%", base: "100vw" }}
+                    h={{ lg: "100%", base: "100vh" }}
+                  />
                 </Box>
               </a>
             </Link>

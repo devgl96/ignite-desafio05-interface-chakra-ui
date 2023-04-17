@@ -49,3 +49,24 @@ a {
 #continent_image {
   cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .swiper .swiper-pagination-horizontal > .swiper-pagination-bullet {
+    background-color: #999999;
+    width: 10px;
+    height: 10px;
+  }
+
+  .swiper-button-next::after,
+  .swiper-button-prev::after {
+    font-size: 10px;
+  }
+
+  .swiper-button-next {
+    font-size: 5px;
+  }
+
+  .swiper-button-prev {
+    font-size: 5px;
+  }
+}

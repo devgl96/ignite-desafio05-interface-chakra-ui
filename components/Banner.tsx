@@ -1,8 +1,19 @@
 import { Box, Image, Text } from "@chakra-ui/react";
 
-export default function Banner() {
+interface BannerProps {
+  showImage: boolean;
+}
+
+export default function Banner({ showImage }: BannerProps) {
   return (
-    <Box w="100%" h="430px" py={4} mt="0" position="relative">
+    <Box
+      w="100%"
+      h={{ lg: "430px", base: "200px" }}
+      py={4}
+      mt="0"
+      position="relative"
+      overflow="hidden"
+    >
       <Image
         src={"/images/Background.png"}
         alt="Background Sky"
@@ -10,33 +21,40 @@ export default function Banner() {
         position="absolute"
         zIndex="-1"
         w="100%"
-        h="300px"
+        h={{ lg: "300px", base: "200px" }}
       />
 
       <Box
         position="absolute"
         top="18%"
-        left="10%"
+        left={{ lg: "10%", base: "5%" }}
         // transform="translate(-50%, -50%)"
-        width="500px"
+        width={{ lg: "500px", md: "350px", base: "300px" }}
         color="white"
       >
-        <Text fontSize="4xl" fontWeight="500">
+        <Text fontSize={{ lg: "4xl", base: "2xl" }} fontWeight="500">
           5 Continentes,
           <br /> infinitas possibilidades.
         </Text>
-        <Text width="450px">
+        <Text
+          width={{ lg: "450px", base: "340px" }}
+          fontSize={{ md: "lg", base: "sm" }}
+          fontWeight={"400"}
+          mt={"5"}
+        >
           Chegou a hora de tirar do papel a viagem que você sempre sonhou.
         </Text>
       </Box>
-      <Image
-        src={"/images/Airplane.png"}
-        alt="Airplane Icon"
-        position="absolute"
-        zIndex="-1"
-        right="60"
-        top="14"
-      />
+      {showImage && (
+        <Image
+          src={"/images/Airplane.png"}
+          alt="Airplane Icon"
+          position="absolute"
+          zIndex="-1"
+          right="60"
+          top="14"
+        />
+      )}
     </Box>
   );
 }

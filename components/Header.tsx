@@ -7,8 +7,8 @@ export default function Header() {
   const router = useRouter();
 
   return (
-    <Flex alignItems="center" justifyContent="center" h="20">
-      <Box position={"absolute"} left={"200"}>
+    <Flex alignItems="center" justifyContent="center" h="20" w="100%">
+      <Box position={"absolute"} left={{ lg: "200", base: "5" }}>
         {router.pathname !== "/" && (
           <Link href="/" legacyBehavior>
             <a>

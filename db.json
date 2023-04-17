@@ -1,0 +1,389 @@
+{
+  "data": [
+    {
+      "continent": "south-america",
+      "continentImageURL": "https://images.unsplash.com/photo-1571422657325-63704f9273ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "cities": [
+        {
+          "id": 1,
+          "url": "https://images.pexels.com/photos/45917/pexels-photo-45917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "city": "São Paulo",
+          "country": "Brasil",
+          "flag": "/images/continents/cities/brazil_flag.png"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1612294037637-ec328d0e075e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Buenos Aires",
+          "country": "Argentina",
+          "flag": "/images/continents/cities/argentina_flag.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Rio de Janeiro",
+          "country": "Brasil",
+          "flag": "/images/continents/cities/brazil_flag.png"
+        },
+        {
+          "id": 4,
+          "url": "https://images.pexels.com/photos/3696051/pexels-photo-3696051.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "city": "Lima",
+          "country": "Peru",
+          "flag": "/images/continents/cities/peru_flag.png"
+        },
+        {
+          "id": 5,
+          "url": "https://images.unsplash.com/photo-1651782979877-c42a879a55d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Bogotá",
+          "country": "Colômbia",
+          "flag": "/images/continents/cities/colombia_flag.png"
+        },
+        {
+          "id": 6,
+          "url": "https://images.unsplash.com/photo-1566079463188-97d2f1352582?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Santiago",
+          "country": "Chile",
+          "flag": "/images/continents/cities/chile_flag.png"
+        },
+        {
+          "id": 7,
+          "url": "https://images.unsplash.com/photo-1587244233244-0d707dc4f765?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1460&q=80",
+          "city": "Quito",
+          "country": "Equador",
+          "flag": "/images/continents/cities/ecuador_flag.png"
+        },
+        {
+          "id": 8,
+          "url": "https://images.unsplash.com/photo-1567030955538-903aa54335d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Montevideo",
+          "country": "Uruguai",
+          "flag": "/images/continents/cities/uruguay_flag.png"
+        }
+      ],
+      "continentName": "América do Sul",
+      "continentDescription": "A América do Sul é o quarto maior continente do mundo, localizado no hemisfério sul. A região é conhecida por sua diversidade cultural, étnica e geográfica, com uma rica história que remonta a civilizações antigas como os incas e os astecas.",
+      "amountCountries": 12,
+      "amountLanguages": 8,
+      "amountCities": 7200,
+      "labelTooltip": "O Brasil, por exemplo, tem mais de 5.000 municípios, enquanto a Argentina tem mais de 2.200 municípios. Além disso, outros países sul-americanos, como Colômbia, Chile, Peru e Equador, também têm muitos municípios."
+    },
+    {
+      "continent": "africa",
+      "continentImageURL": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "cities": [
+        {
+          "id": 1,
+          "url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+          "city": "Cairo",
+          "country": "Egito",
+          "flag": "/images/continents/cities/egypt_flag.png"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1626882920560-80b382db2bc9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+          "city": "Lagos",
+          "country": "Nigeria",
+          "flag": "/images/continents/cities/nigeria_flag.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.unsplash.com/photo-1657671520058-64293338bf94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+          "city": "Kinshasa",
+          "country": "Congo",
+          "flag": "/images/continents/cities/democratic_republic_of_congo_flag.png"
+        },
+        {
+          "id": 4,
+          "url": "https://images.unsplash.com/photo-1636706519609-988babca3dd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1258&q=80",
+          "city": "Johannesburgo",
+          "country": "África do Sul",
+          "flag": "/images/continents/cities/south_africa_flag.png"
+        },
+        {
+          "id": 5,
+          "url": "https://images.unsplash.com/photo-1668335480341-766e5f78d716?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+          "city": "Casablanca",
+          "country": "Marrocos",
+          "flag": "/images/continents/cities/morocco_flag.png"
+        }
+      ],
+      "continentName": "África",
+      "continentDescription": "A África é um dos continentes mais antigos e diversificados do mundo, com uma rica história cultural e natural. Com uma área de cerca de 30 milhões de quilômetros quadrados, é o terceiro maior continente em extensão territorial.",
+      "amountCountries": 54,
+      "amountLanguages": 2000,
+      "amountCities": 10000,
+      "labelTooltip": "Há cerca de 10.000 a 15.000 cidades na África, variando em tamanho e população."
+    },
+    {
+      "continent": "asia",
+      "continentImageURL": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "cities": [
+        {
+          "id": 1,
+          "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1494&q=80",
+          "city": "Tóquio",
+          "country": "Japão",
+          "flag": "/images/continents/cities/japan_flag.png"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1599571234909-29ed5d1321d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Pequim",
+          "country": "China",
+          "flag": "/images/continents/cities/china_flag.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.unsplash.com/photo-1531169628939-e84f860fa5d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Bangkok",
+          "country": "Tailândia",
+          "flag": "/images/continents/cities/thailand_flag.png"
+        },
+        {
+          "id": 4,
+          "url": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+          "city": "Hong Kong",
+          "country": "China",
+          "flag": "/images/continents/cities/china_flag.png"
+        },
+        {
+          "id": 5,
+          "url": "https://images.unsplash.com/flagged/photo-1559717201-fbb671ff56b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+          "city": "Dubai",
+          "country": "Emirados Árabes Unidos",
+          "flag": "/images/continents/cities/united_arab_emirates_flag.png"
+        },
+        {
+          "id": 6,
+          "url": "https://images.unsplash.com/photo-1573132223210-d65883b944aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1494&q=80",
+          "city": "Mumbai",
+          "country": "Índia",
+          "flag": "/images/continents/cities/india_flag.png"
+        }
+      ],
+      "continentName": "Ásia",
+      "continentDescription": "O continente asiático é o maior continente do mundo em termos de área e população. É cercado por três oceanos: o Oceano Pacífico, o Oceano Índico e o Ártico. A Ásia é o lar de uma grande diversidade de culturas, etnias, religiões e línguas.",
+      "amountCountries": 49,
+      "amountLanguages": 2300,
+      "amountCities": 10000,
+      "labelTooltip": "Algumas fontes afirmam que existem cerca de 24.000 cidades na Ásia, enquanto outras estimam em torno de 10.000."
+    },
+    {
+      "continent": "antarctica",
+      "continentImageURL": "https://images.pexels.com/photos/53389/iceberg-antarctica-polar-blue-53389.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "cities": [
+        {
+          "id": 1,
+          "url": "https://images.unsplash.com/photo-1562743227-dbfb8875c61b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+          "city": "Estação Palmer",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1561378552-1a7f6f193840?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+          "city": "Estação Amundsen-Scott",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.unsplash.com/photo-1562743338-51caec0b0e65?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+          "city": "Estação Concordia",
+          "country": "Itália",
+          "flag": "/images/continents/cities/italy_flag.png"
+        }
+      ],
+      "continentName": "Antártica",
+      "continentDescription": "A Antártida é um continente localizado no polo sul da Terra, com uma área total de cerca de 14 milhões de quilômetros quadrados. É cercada pelo Oceano Austral e é o quinto maior continente do mundo em termos de área. A Antártida é conhecida por seu clima extremamente frio e seco, com temperaturas que podem chegar a -80°C no inverno.",
+      "amountCountries": 70,
+      "amountLanguages": 30,
+      "amountCities": 4,
+      "labelTooltip": "Incluindo biologia, geologia, climatologia e oceanografia, entre outros."
+    },
+    {
+      "continent": "europe",
+      "continentImageURL": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "cities": [
+        {
+          "id": 1,
+          "url": "https://images.pexels.com/photos/1796715/pexels-photo-1796715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "city": "Londres",
+          "country": "Reino Unido",
+          "flag": "/images/continents/cities/united_kingdom_flag.png"
+        },
+        {
+          "id": 2,
+          "url": "https://images.pexels.com/photos/1308940/pexels-photo-1308940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "city": "Paris",
+          "country": "França",
+          "flag": "/images/continents/cities/france_flag.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "city": "Roma",
+          "country": "Itália",
+          "flag": "/images/continents/cities/italy_flag.png"
+        },
+        {
+          "id": 4,
+          "url": "https://images.pexels.com/photos/126292/pexels-photo-126292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "city": "Praga",
+          "country": "República Tcheca",
+          "flag": "/images/continents/cities/czech_republic_flag.png"
+        },
+        {
+          "id": 5,
+          "url": "https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "city": "Amsterdã",
+          "country": "Holanda",
+          "flag": "/images/continents/cities/netherlands_flag.png"
+        }
+      ],
+      "continentName": "Europa",
+      "continentDescription": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "amountCountries": 50,
+      "amountLanguages": 60,
+      "amountCities": 27,
+      "labelTooltip": "Mais de 800 cidades."
+    },
+    {
+      "continent": "north-america",
+      "continentImageURL": "https://images.unsplash.com/photo-1516141535911-e3b982713e61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "cities": [
+        {
+          "id": 1,
+          "url": "https://images.unsplash.com/photo-1492666673288-3c4b4576ad9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+          "city": "Nova York",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1429554429301-1c7d5ae2d42e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Los Angeles",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1244&q=80",
+          "city": "Chicago",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        },
+        {
+          "id": 4,
+          "url": "https://images.unsplash.com/photo-1507992781348-310259076fe0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Toronto",
+          "country": "Canadá",
+          "flag": "/images/continents/cities/canada_flag.png"
+        },
+        {
+          "id": 5,
+          "url": "https://images.unsplash.com/photo-1493794179168-82ca7cb00437?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+          "city": "Cidade do México",
+          "country": "México",
+          "flag": "/images/continents/cities/mexico_flag.png"
+        },
+        {
+          "id": 6,
+          "url": "https://images.unsplash.com/photo-1559510904-60bd53ecb973?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1537&q=80",
+          "city": "Vancouver",
+          "country": "Canadá",
+          "flag": "/images/continents/cities/canada_flag.png"
+        },
+        {
+          "id": 7,
+          "url": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Miami",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        },
+        {
+          "id": 8,
+          "url": "https://images.unsplash.com/photo-1575540576545-3db8561c29e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1451&q=80",
+          "city": "Montreal",
+          "country": "Canadá",
+          "flag": "/images/continents/cities/canada_flag.png"
+        },
+        {
+          "id": 9,
+          "url": "https://images.unsplash.com/photo-1550109161-7262e652bf82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+          "city": "Las Vegas",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        },
+        {
+          "id": 10,
+          "url": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "San Francisco",
+          "country": "Estados Unidos",
+          "flag": "/images/continents/cities/united_states_flag.png"
+        }
+      ],
+      "continentName": "América do Norte",
+      "continentDescription": "A América do Norte é um continente localizado no hemisfério norte do planeta Terra, limitado a norte pelo Oceano Ártico, a leste pelo Oceano Atlântico, a sul pelo Golfo do México e pelo Mar do Caribe, e a oeste pelo Oceano Pacífico.",
+      "amountCountries": 3,
+      "amountLanguages": 6,
+      "amountCities": 20000,
+      "labelTooltip": "Nos Estados Unidos, por exemplo, existem mais de 19.000 cidades e vilas. No Canadá, há mais de 5.000 municípios, e no México há mais de 2.400 municípios."
+    },
+    {
+      "continent": "oceania",
+      "continentImageURL": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "cities": [
+        {
+          "id": 1,
+          "url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Sydney",
+          "country": "Austrália",
+          "flag": "/images/continents/cities/australia_flag.png"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1617918781812-03f1bede89e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Auckland",
+          "country": "Nova Zelândia",
+          "flag": "/images/continents/cities/new_zealand_flag.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.unsplash.com/photo-1452859030887-bb96ef08d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+          "city": "Brisbane",
+          "country": "Austrália",
+          "flag": "/images/continents/cities/australia_flag.png"
+        },
+        {
+          "id": 4,
+          "url": "https://images.unsplash.com/photo-1505642257289-9f2d7dd73641?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1521&q=80",
+          "city": "Melbourne",
+          "country": "Austrália",
+          "flag": "/images/continents/cities/australia_flag.png"
+        },
+        {
+          "id": 5,
+          "url": "https://images.unsplash.com/photo-1558482623-d1507c001b57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Wellington",
+          "country": "Nova Zelândia",
+          "flag": "/images/continents/cities/new_zealand_flag.png"
+        },
+        {
+          "id": 6,
+          "url": "https://images.unsplash.com/photo-1552294784-0342648ac419?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "city": "Suva",
+          "country": "Fiji",
+          "flag": "/images/continents/cities/fiji_flag.png"
+        }
+      ],
+      "continentName": "Oceania",
+      "continentDescription": "A Oceania é o menor continente do mundo em termos de área, mas é composto por uma ampla variedade de ilhas e arquipélagos espalhados pelo Oceano Pacífico. É dividido em três regiões geográficas: Melanésia, Micronésia e Polinésia.",
+      "amountCountries": 14,
+      "amountLanguages": 1200,
+      "amountCities": 4000,
+      "labelTooltip": "Estima-se que existam cerca de 4.000 cidades e vilas na Austrália, que é o maior país da região em termos de área e população."
+    }
+  ]
+}
